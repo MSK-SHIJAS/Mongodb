@@ -1,6 +1,6 @@
 
 import mongoose from "mongoose";
-
+// lkjlkj
 const userSchema=new mongoose.Schema({
     username:{
         type:String
